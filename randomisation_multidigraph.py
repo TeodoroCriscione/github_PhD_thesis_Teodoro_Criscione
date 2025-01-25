@@ -1,7 +1,5 @@
-import numpy as np
 import networkx as nx
 import random
-import copy
 
 def Double_Edge_Target_Swap_MultiDiGraph(original_multidigraph_g):
     

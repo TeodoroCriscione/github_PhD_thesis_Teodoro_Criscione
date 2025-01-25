@@ -4,8 +4,6 @@ import numpy as np
 from collections import Counter
 import datetime
 import pandas as pd
-import matplotlib.pyplot as plt
-import random
 import os
 
 ####################################
